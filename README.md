@@ -1,7 +1,7 @@
 # Gerenciador de salas de reuniões com Java e Angular
 
 ## Sobre
-O projeto é um exemplo de API com Spring Boot para gerenciar salas de reunião, utilizaremos o Spring Data para persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API será uma SPA escrita em Angular. 
+O projeto é um exemplo de API com Spring Boot para gerenciar salas de reunião, utilizando o Spring Data para persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API é uma SPA escrita em Angular. 
 Realizado dentro do bootcamp everis FullStack Developer com o intuito de colocar em prática todo o conteúdo estudado durante o curso da DIO.
 
 ## 💻️ Tecnogias utilizadas
